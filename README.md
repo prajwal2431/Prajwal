@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Full-Stack Developer based in Pune, India.
-- 📫 How to reach me: [prajwalnivangune914@gmail.com](prajwalnivangune914@gmail.com)
+- 📫 How to reach me: [prajwalnivangune914@gmail.com](mailto:prajwalnivangune914@gmail.com)
 - 🔗 **500+ connections** on LinkedIn, let's connect!
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! <br>Dive into my digital journey in the [portfolio](https://prajwal2431.github.io/portfolio_prajwal/)! 💻❤️
 
