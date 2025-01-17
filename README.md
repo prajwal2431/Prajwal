@@ -39,17 +39,9 @@
 <div align="left">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<!--   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
 </div><br/>
 
 <h3 align="left">📊 GitHub Activity:</h3>
-<!-- <table> -->
-<!--   <tr> -->
-<!--     <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td> -->
-<!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td> -->
-<!--   </tr> -->
-<!-- </table> -->
-
-<!-- <div align="center"> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p> -->
-<!--   </div> -->
+![prajwal2431's Stats](https://github-readme-stats.vercel.app/api?username=prajwal2431&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![prajwal2431's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwal2431&theme=radical&hide_border=false)
+![prajwal2431's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal2431&theme=radical&show_icons=true&hide_border=false&layout=compact)
