@@ -12,8 +12,6 @@
   <a href="mailto:prajwalnivangune914@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.fiverr.com/s/qDPj7lg" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 </div>
-<br>
-<br>
 <img src="https://komarev.com/ghpvc/?username=prajwal2431&style=flat-square&color=blue" alt="Profile Views" />
 
 <img src="https://raw.githubusercontent.com/prajwal2431/prajwal2431/output/snake.svg" alt="Snake animation"/>
